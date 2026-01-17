@@ -1,1 +1,29 @@
 
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f2ed;
+  color: #3b2f2f;
+  margin: 0;
+  padding: 20px;
+}
+
+header {
+  background: #6b4f3f;
+  color: white;
+  padding: 30px;
+  text-align: center;
+}
+
+nav a {
+  margin-right: 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.cta {
+  display: inline-block;
+  background: #8b6a55;
+  color: white;
+  padding: 10px 15px;
+  text-decoration: none;
+}
