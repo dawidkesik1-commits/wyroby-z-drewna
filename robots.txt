@@ -1,1 +1,4 @@
 
+User-agent: *
+Allow: /
+Sitemap: https://dawidkesik1.github.io/wyroby-z-drewna/sitemap.xml
